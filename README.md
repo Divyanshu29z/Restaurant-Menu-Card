@@ -1,4 +1,4 @@
-# Restaurant-Menu-Card
+# Restaurant Menu Card
 
 ## This is a basic React application.
 
